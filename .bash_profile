@@ -1,1 +1,6 @@
+export CLIENT_ID="YWJwjpyZx7TvYg"
+export CLIENT_SECRET="vbi5y3MvgrboID1RpQ1FJKqcj-Y"
+export USER_AGENT="Testing_API"
+export USER_NAME="Karish_Grover"
+export PASSWORD="jaikalkamaa9"
 export SECRET_KEY="5&kq5yztrwo$@i7-nksiabmp79@q_!fka1-nox4fgat%bylb6e"
