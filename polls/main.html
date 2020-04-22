@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="Description" content="This is cool stuff"> 
+			<title>Karish's Website
+				</title>
+		</head>
+		<style>
+			.button {
+  background-color: white;
+  border: none;
+  color: black;
+  padding: 25px 35px;
+  text-align: center;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: red;
+}
+		</style>
+	<body style="background-color: black">
+		<h1 style="color:red ;font-family:chalkduster ;font-size:40px;text-align: center"><big>Reddit Flair Detection</big></h1>
+		<hr/>
+		<br/><br/>
+		<form method="POST" style="font-size:25px;color: white; padding: 25px 35px">
+			{%csrf_token%}
+		<big><big>{{ form }}</big></big>
+		<br/>
+		<br/>
+		<div>
+		<button class="button" formtarget="_top">Get Flair !</button>
+		</div>
+		<h1 style="color:red; font-family:Marker Felt ;font-size:30px"> {{text}}</h1>
+		<h1 style="color:white;font-family:chalkduster ;font-size:60px">{{flair}}</h1>
+	</form>
+		</body>
+</html>
