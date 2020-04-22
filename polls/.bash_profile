@@ -1,5 +1,0 @@
-export A="YWJwjpyZx7TvYg"
-export B= "vbi5y3MvgrboID1RpQ1FJKqcj-Y"
-export C= "Testing_API"
-export D= "Karish_Grover"
-export E= "jaikalkamaa9"
