@@ -1,5 +1,5 @@
-******Reddit Flair Detection using Reddit API****
-**
+****Reddit Flair Detection using Reddit API****
+
 **Problems - Reddit Flare Detection**
 
 **Part I - Reddit Data Collection**
@@ -17,7 +17,7 @@ Posts in r/india can be corresponding to multiple topics. Each post is tagged fo
 Built a web application which can be used to detect Flare of a r/india post. The Application has an input field which expects a link to a reddit post from r/india. On submission it scrapes out the flare of the post.
 
 **Part V - Deployment**
-Deployed web application built in Part IV on Heroku.
+Deployed the web application built in Part IV on Heroku.
 
 Web Application deployed on Heroku: https://cherryflair.herokuapp.com/
 
