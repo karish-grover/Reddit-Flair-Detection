@@ -1,5 +1,5 @@
-**Reddit Flair Detection using Reddit API**
-
+******Reddit Flair Detection using Reddit API****
+**
 **Problems - Reddit Flare Detection**
 
 **Part I - Reddit Data Collection**
