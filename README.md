@@ -22,7 +22,7 @@ Built a web application which can be used to detect Flare of a r/india post. The
 
 **Part V - Deployment**
 
-Deployed the web application built in Part IV on Heroku.
+Deployed the web application built in Part IV (using Python Django) on Heroku.
 
 Web Application deployed on Heroku: https://cherryflair.herokuapp.com/
 
